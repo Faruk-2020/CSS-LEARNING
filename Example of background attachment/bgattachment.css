@@ -1,0 +1,8 @@
+body{
+    text-align: center;
+    background-image: url(leaf.jpg);
+    background-size: 450px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
