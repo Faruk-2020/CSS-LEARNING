@@ -1,0 +1,14 @@
+body{
+    background-color: aqua;
+}
+h2{
+    width: 100%;
+    height: 500px;
+    background-color: #f03b5f;
+    background-image: url("bean.jpg") no-repeat contain center; 
+    color: yellow;
+    
+}
+p{
+    color: #000080;
+}
