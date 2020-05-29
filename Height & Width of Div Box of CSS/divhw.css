@@ -1,0 +1,41 @@
+body{
+    background-color: darkgray;
+}
+#uni{
+    color: #ff0000;
+    font-size: 60px;
+    text-align: center;
+}
+.div1{
+    height: 250px;
+    width: 1000px;
+    background-color: #f512f5;
+    font-size: 20px;
+    text-align: center;
+}
+h1.hh{
+    color: chartreuse;
+}
+p.green{
+    background-color: #008000;
+}
+p.crismon{
+    background-color: crimson;
+}
+p.aqua{
+    background-color: #00ffff;
+}
+p.yellow{
+    background-color: #ffff00;
+}
+.div2{
+    height: 350px;
+    width: 1300px;
+    background-color: greenyellow;
+    font-size: 25px;
+}
+h1.HH{
+    font-size: 50px;
+    color: #ff006a;
+    text-align: center;
+}
