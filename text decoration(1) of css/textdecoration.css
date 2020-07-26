@@ -1,0 +1,12 @@
+*{
+    background-color: #1c94c3;
+}
+.ov{
+    text-decoration: overline;
+}
+.un{
+    text-decoration: underline;
+}
+.lt{
+    text-decoration: line-through;
+}
