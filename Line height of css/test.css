@@ -1,0 +1,38 @@
+*{
+    background-color: #adf0d9;
+}
+.art1 h1{
+    color: #0000ff;
+    text-align: center;
+    
+
+}
+.art1 p{
+    color: #df13ac;
+    text-align: justify;
+    text-transform: uppercase;
+    line-height: 1.1;
+  
+}
+.art2 h1{
+    color: crimson;
+    text-align: center;
+   
+}
+.art2 p{
+    color:blue;
+    text-align: justify;
+    text-transform: lowercase;
+    line-height: 30px;
+}
+.art3 h1{
+    color:#0eaf0e ;
+    text-align: center;
+    
+}
+.art3 p{
+    color: #a80a0a;
+    text-align: justify;
+    text-transform: capitalize;
+    line-height: 3.5;
+}
