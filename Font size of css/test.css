@@ -1,0 +1,47 @@
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+//put the font size in keyword
+.keyword h2{
+    font-size: xx-large;
+}
+.keyword p{
+    font-size: small;
+}
+.keyword span{
+    font-size: large;
+}
+//put the font size in pixel
+
+.pixel h2{
+    font-size: 35px;
+}
+.pixel p{
+    font-size: 20px;
+}
+.pixel span{
+    font-size: 25px;
+}
+//put the font size in percent
+
+.percent h2{
+    font-size: 250%;
+}
+.percent p{
+    font-size: 150%;
+}
+.percent span{
+    font-size: 150%;
+}
+//put the font size in ems
+
+.ems h2{
+    font-size: 3.1em;
+}
+.ems p{
+    font-size: 1.9em;
+}
+.ems span{
+    font-size:1.8em ;
+}
