@@ -1,0 +1,10 @@
+p.demo1{
+    font-style:italic;
+    font-weight:bold;
+    font-size:20px;
+    line-height:1.8;
+    font-family:verdana, helvetica, Arial, Papyrus, Sans-serif;}
+  /* Same styles using a shorthand CSS declaration*/
+  
+  p.demo2{
+    font:bold italic 20px/1.8 verdana, helvetica, Arial, Papyrus, Sans-serif;}
