@@ -1,0 +1,6 @@
+You can use these selectors when you need to select an element 
+that is the descendant of another element, for example, if yo
+want to target only those anchors that are contained within an
+unordered list, rather than targeting all anchor elements.
+Inorder to create a descendant selector, the two selectors
+must be seperated by a space, ancestor first and followed by descendants

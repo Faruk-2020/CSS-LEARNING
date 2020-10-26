@@ -1,0 +1,15 @@
+#header{
+    background-color: grey;
+}
+#header h2 {
+    color: red;
+}
+#header h2 em{
+    color: greenyellow;
+}
+#header p{
+    color: hotpink;
+}
+#feature p{
+    color: blue;
+}
