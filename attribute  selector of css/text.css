@@ -1,0 +1,15 @@
+div[id]{
+    background-color: aqua;
+}
+div[class]{
+    background-color: grey;
+    color: chartreuse;
+    font-weight: bolder;
+    text-align: center;
+}
+span[class]{
+    color: purple;
+}
+a[title]{
+    background-color: yellow;
+}
