@@ -1,0 +1,15 @@
+h1 {
+    padding: 50px; /* apply to all four sides */
+}
+p {
+    padding: 25px 75px; /* vertical | horizontal */
+}
+div {
+    padding: 25px 50px 75px; /* top | horizontal | bottom */
+}
+pre {
+    padding: 25px 50px 75px 100px; /* top | right | bottom | left */
+}
+h1, p, div, pre {
+    background: lime;
+}
