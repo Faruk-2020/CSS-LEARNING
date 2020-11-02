@@ -1,0 +1,10 @@
+body{
+    font-family:Verdana;
+}
+span{
+       background-color: aqua;
+       padding-top:10px;/* padding of 10px at the top edge*/
+       padding-right:1em;/*padding of 1em at the right edge*/
+       padding-bottom:5%;/*padding of 5% at the bottom edge*/
+       padding-left:1cm;/*padding of 1cm at the left edge*/
+}
