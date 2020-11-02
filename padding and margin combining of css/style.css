@@ -1,0 +1,6 @@
+body{font-family:Verdana;}
+  .demo1{background-color: chartreuse;}/* No Margin and Padding*/
+  
+  .demo2{background-color: cornflowerblue; /* With Margin and Padding*/
+    margin:10px;
+    padding:40px;}
