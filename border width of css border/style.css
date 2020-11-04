@@ -1,0 +1,5 @@
+body{font-family:Verdana; }
+p{border-style:solid; border-color:#666;}
+.demo1 {border-width:10px;}
+.demo2{border-width:thick;}
+.demo3{border-width:3px 6px 9px 12px;}
