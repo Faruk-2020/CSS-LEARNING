@@ -1,0 +1,16 @@
+  #radiusBox{
+    background-color:#fa4b2a;
+    width:400px;
+    height:100px;
+    border-radius:10px/40px;  
+	   /* symbol "/ " used to seperate horizontal values from vertical*/    
+  } 
+  #radiusBox2{
+    margin-top:20px;
+    background-color:#fa4b2a;
+    width:300px;
+    height:300px;
+    border-radius:10px 30% 5em 4cm/ 20px 40% 3em 5cm; 
+	
+    /*first four are horizontal values next four are vertical values for each side*/
+  }
