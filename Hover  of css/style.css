@@ -1,0 +1,9 @@
+body{
+  text-align: center;
+}
+h1:hover,p:hover{
+  background-color: chartreuse;
+}
+a:hover{
+  background-color: yellow;
+}
