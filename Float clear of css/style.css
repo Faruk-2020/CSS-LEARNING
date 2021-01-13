@@ -14,3 +14,11 @@ float:right;
 .clear{
   clear: both;
 }
+//there are another way to clear float:
+<!---.clearfix::after{
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}--->
